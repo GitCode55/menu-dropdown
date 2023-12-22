@@ -1,0 +1,12 @@
+* {
+  background-color: #70c7d6;
+  font-family: Verdana, sans-serif
+}
+
+div.menu-bar ul ul {
+  display: none;
+}
+
+div.menu-bar li:hover > ul {
+  display: block;
+}
